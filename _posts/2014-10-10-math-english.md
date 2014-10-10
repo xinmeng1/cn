@@ -1,3 +1,10 @@
+---
+layout: post
+title: Math of English
+categories: [English]
+tags: [English, 数学]
+---
+
 ##加减乘除表达 
 
 1. $+$ : **plus**
