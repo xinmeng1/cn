@@ -5,7 +5,7 @@ categories: [Andorid]
 tags: [Coursera, 公开课, Android]
 ---
 
-{{ content }}
+{{ content | toc_generate }}
 
 ## 概述
 
