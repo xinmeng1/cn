@@ -5,6 +5,8 @@ categories: [Andorid]
 tags: [Coursera, 公开课, Android]
 ---
 
+[TOC]
+
 ## 概述
 
 Week3的内容主要是介绍 Intent, Permission和Fragment. 在这里根据授课内容对其中的要点进行总结阐述, 并且关键代码展示出来. 最后把作业中关键问题进行详细讨论, 最后对Quiz的内容进行简要分析.
