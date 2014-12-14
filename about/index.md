@@ -4,27 +4,13 @@ layout: page
 comments: yes
 ---
 
-# 我是谁
+I'm a PhD student in the School of Informatic Department of [City University London](http://www.city.ac.uk). I advised by [George Spanoudakis](http://www.soi.city.ac.uk/~gespan/). My research subject is network security special for [Botnet](https://en.wikipedia.org/wiki/Botnet). My Bachelor and Master graduated from Nanjing University of Aeronautics and Astronautics [NUAA](http://www.nuaa.edu.cn) which focus on the distributed computating. The first programe language is C++, but now I use many tools in my research, such as Java, Python, even DOS batch. I'm a co-founder of [IDAOYOO](http://www.idaoyoo.com) which is a Chinese tour guide social network based in London. 
 
-。
+这是Xin Meng的个人主页， 在读PhD于City University London。
 
-# 个人兴趣
+# 鸣谢
 
+博客模板:[Linghua Zhang](http://lhzhang.com/)
+首页:[Tao Zhang](http://ztpala.com/)
 
-
-# 写作原则
-
-
-
-# 本站架构
-
-本站目前采用Jekyll作为后台系统，我希望这是我的最后一站。此前我曾走过很多地方：2004年我开始在博客中国（后来改名为bokee）写博客，后来改到blog.com.cn，再后来到MSN Space写英文，再后来自己用Bo-blog建站，两年后再次换系统为如今流行的Wordpress，最后我到了码农的乐土，Jekyll，一个以纯文本文件形式写博客的系统，其作者在写出这套系统后曾经写了一篇日志“[像一个黑客一样写博客](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)”，最初我在[Charlie Sharpsteen](https://github.com/Sharpie)那里看到这个标题时并没有在意，但过了很长时间之后，我开始感受到GitHub的日益强大，越来越对我的胃口，于是我的世界完全被GIT化了，我的所有软件包全都搬到那里，直到现在连博客也搬过来了。
-
-博客模板是在[Linghua Zhang](http://lhzhang.com/)那里偷偷扒过来的，虽然很无耻，但我实在是很喜欢这个简洁的设计，唉，即使挨骂我也想偷，当然，要是主人真的介意，我也只能忍痛割爱了。我的[首页](/)是从[Tao Zhang](http://ztpala.com/)那里偷来的，同样我也是觉得设计得很棒。我对CSS做了一些局部微调，主要功劳都是前面二位的（居然都姓张），哪天要是有机会见到你们我一定请客。对了，本站的日志文章可以用键盘上的左右箭头导航，如果你要从盘古开天辟地看起，就到第一篇文章开始一步步按右箭头吧，目前搬家后大部分文章我还没整理，所以会遇到不少格式乱糟糟的文字或图片缺失，若有此类情况让你感到不爽，请帮忙给我留言提醒一下。
-
-# 我佩服的人
-
-
-
-未完待续。
 

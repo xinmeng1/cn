@@ -94,7 +94,9 @@ tags: [English, 数学]
 14. **veen diagrams**: 韦恩图,集合论使用的图
 15. **membership table**: 成员表,真值表
 16. **finite and infinite**: 注意发音/'fainait/ /'infinit/
+
 ###函数公式
+
 ${\color{Red} f}$
 
 ###微积分公式
